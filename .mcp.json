@@ -2,7 +2,7 @@
   "mcpServers": {
     "saleseq": {
       "type": "http",
-      "url": "https://mcp.saleseq.ai/mcp"
+      "url": "https://mcp.saleseq.ai"
     }
   }
 }
