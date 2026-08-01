@@ -1,0 +1,18 @@
+{
+  "name": "saleseq",
+  "description": "Official SalesEQ plugins — meeting context for AI agents.",
+  "owner": {
+    "name": "SalesEQ",
+    "email": "support@saleseq.ai",
+    "url": "https://www.saleseq.ai"
+  },
+  "plugins": [
+    {
+      "name": "saleseq",
+      "source": "./",
+      "description": "Give Claude your meetings. Search transcripts by topic or speaker, pull summaries and transcripts, recap calls, and prep for the next one.",
+      "category": "productivity",
+      "tags": ["meetings", "transcripts", "sales", "conversation-intelligence", "mcp"]
+    }
+  ]
+}
