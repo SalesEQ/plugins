@@ -38,7 +38,7 @@ need a SalesEQ account at [app.saleseq.ai](https://app.saleseq.ai) with at least
 recorded or uploaded.
 
 Not using one of these clients? Any MCP-compatible agent can connect directly to
-`https://mcp.saleseq.ai/mcp` — see [Connect a custom MCP client](https://www.saleseq.ai/docs/ai-assistants/connect-custom-mcp).
+`https://mcp.saleseq.ai` — see [Connect a custom MCP client](https://www.saleseq.ai/docs/ai-assistants/connect-custom-mcp).
 
 ## What you get
 

@@ -1,6 +1,6 @@
 {
   "name": "saleseq",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Give Codex your meetings. SalesEQ records, transcribes, and analyzes every call your team runs — search across transcripts by topic or speaker, pull summaries and full transcripts, recap what was said, and prep for the next call. The meeting context layer for Codex and any MCP-compatible agent.",
   "author": {
     "name": "SalesEQ",
@@ -78,6 +78,6 @@
     ],
     "brandColor": "#1685FF",
     "composerIcon": "./assets/saleseq-logomark.svg",
-    "logo": "./assets/saleseq-logo-black.svg"
+    "logo": "./assets/saleseq-logomark.svg"
   }
 }
