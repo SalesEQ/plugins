@@ -1,7 +1,7 @@
 {
   "name": "saleseq",
   "displayName": "SalesEQ",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "category": "Productivity",
   "description": "Give Cursor your meetings. SalesEQ records, transcribes, and analyzes every call your team runs — search across transcripts by topic or speaker, pull summaries and full transcripts, recap what was said, and prep for the next call. The meeting context layer for Cursor and any MCP-compatible agent.",
   "author": {
