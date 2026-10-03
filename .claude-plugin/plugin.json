@@ -1,6 +1,8 @@
 {
   "name": "saleseq",
+  "version": "1.0.1",
   "description": "Give Claude your meetings. SalesEQ records, transcribes, and analyzes every call your team runs — search across transcripts by topic or speaker, pull summaries and full transcripts, recap what was said, prep for the next call, and resolve who said what. The meeting context layer for Claude and any MCP-compatible agent.",
+  "icon": "./assets/saleseq-logomark.svg",
   "author": {
     "name": "SalesEQ",
     "email": "support@saleseq.ai",
@@ -9,6 +11,7 @@
   "homepage": "https://www.saleseq.ai",
   "repository": "https://github.com/SalesEQ/plugins",
   "license": "MIT",
+  "privacyPolicyUrl": "https://www.saleseq.ai/privacypolicy",
   "keywords": [
     "saleseq",
     "meetings",
